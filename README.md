@@ -7,7 +7,7 @@
   </p>
 <br>
 
-<p><img align="right" src="./resouces/animation_dev.gif" /></p>
+<p><img align="right" src="./resouces/animation_dev.gif" width="500" height="500" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
