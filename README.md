@@ -20,10 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/vanthuy0968" target="blank">
-  <img align="center"
-      src="./resouces/facebook.svg"
-      alt="thuynguyen" height="30" width="40" /></a>
-  
 </p>
 
 <picture>
