@@ -31,6 +31,6 @@
   />
 </picture>
 
-- This snake are eating my contributions graph
+- This snake are eating my contributions graph 🥴🥴🥴
 
-[Check My Github](https://github.com/Vanthuy2002)
+[Check My Github](https://github.com/thuynguyen0964)
